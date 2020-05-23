@@ -1,7 +1,7 @@
 Follow the following steps to install the project
 
 1. Clone the repository.
-2. Open it in VScod er in Atom.
+2. Open it in VScode or in Atom.
 3. Run the command : 
     npm install
 4. Run the command :
